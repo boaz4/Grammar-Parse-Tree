@@ -1,14 +1,3 @@
-/*
-COURSE: COSC455
-Assignment: Program 1
-Name: Alemseged, Boaz
-Name: Giorgis, Gideon
-*/
-
-
-
-
-package COSC455.ParserExample_Java11;
 //  ************** NOTE: REQUIRES JAVA 11 OR ABOVE! ******************
 
 
